@@ -27,10 +27,10 @@
   border-radius: 50%;
 }
 
-.py-5 {
-  padding-bottom: 0px !important;
-}
-
 .dog-img {
   border-radius: 50%;
+}
+
+.py-5 {
+  padding-bottom: 0 !important;
 }
